@@ -3,7 +3,7 @@
 Storing Page listing personal resources regarding development.
 
 # Personal quick access formations
-- ZeroToMastery: https://zerotomastery.com (OT)
+- ZeroToMastery: https://zerotomastery.io (OT)
 - EggHead: https://eggHead.io (SB)
 - PluralSight: https://pluralsight.com (SB)
 - ReactBootcamp: https://reactbootcamp.com (OT)
@@ -101,6 +101,7 @@ WIP
 ## Full/Entire dedicated topic courses/bootcamps/workshop ( fully paid ) :
 |Names 					|  Link(s)				|
 |:---------------------:|:---------------------|
+|ZeroToMastery |https://zeroToMastery.io |
 |Kent C. Dodds |https://kentcdodds.com/courses |
-|ZeroToMastery |https://zeroToMastery.com/ |
-|ReactBootcamp |https://reactbootcamp.com/ |
+|ZeroToMastery |https://zeroToMastery.io |
+|ReactBootcamp |https://reactbootcamp.com |
