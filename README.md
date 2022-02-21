@@ -14,6 +14,9 @@ Storing Page listing personal resources regarding development.
   - Kent C. Dodd - EpicReactApp: https://epicreact.dev (OT)
   - Kent C. Dodd - Testing: https://testingjavascript.com (OT)
   - SkillShare: https://skillshare.com (SB)
+  - LogicRoom - Ultra fast testing TDD   
+  for javasscript engineer: https://www.logicroom.co/library (OT)
+  - Awwwards - 
 - Both reading and video based:
   - FreeCodeCamp: https://freecodecamp.com
     / https://youtube.com/c/freecodecamp (✨FREE)
