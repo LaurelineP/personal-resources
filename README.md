@@ -3,14 +3,20 @@
 Storing Page listing personal resources regarding development.
 
 # Personal quick access formations
-- ZeroToMastery: https://zerotomastery.io (OT)
-- EggHead: https://eggHead.io (SB)
-- PluralSight: https://pluralsight.com (SB)
-- ReactBootcamp: https://reactbootcamp.com (OT)
-- Kent C. Dodd - EpicReactApp: https://epicreact.dev (OT)
-- Kent C. Dodd - Testing: https://testingjavascript.com (OT)
-- SkillShare: https://skillshare.com (SB)
-- SitePoint: https://sitepoint.com (SB)
+- Reading based: 
+  - Medium: https://medium.com/ (SB)
+  - Sitepoint: https://sitepoint.com (SB)
+- Video based:
+  - ZeroToMastery: https://zerotomastery.io (OT)
+  - EggHead: https://eggHead.io (SB)
+  - PluralSight: https://pluralsight.com (SB)
+  - ReactBootcamp: https://reactbootcamp.com (OT)
+  - Kent C. Dodd - EpicReactApp: https://epicreact.dev (OT)
+  - Kent C. Dodd - Testing: https://testingjavascript.com (OT)
+  - SkillShare: https://skillshare.com (SB)
+- Both reading and video based:
+  - FreeCodeCamp: https://freecodecamp.com
+    / https://youtube.com/c/freecodecamp (✨FREE)
 
 # Personal books
 WIP
@@ -18,11 +24,11 @@ WIP
 
 ## Podcasts:
 |Names 					| Languages 			| Descriptions 				|
-|:---------------------:|:---------------------:|:-------------------------|
-| Artisan Développeur	| FR 					| Author: Benoit Gantaume Sujet Passionné d' Agilité explaining concept and react to them, may includes interviews
-| Echo podcast tech/dev	| FR 					| Various conversations/interviews regarding tech |
-| If This Then Dev ( ITTD )	| FR 				| Digital organization talking / exchanging about tech with professional in activity |
-| Syntax.fm		| EN 				| WIP |
+|:---------------------|:---------------------:|:-------------------------|
+| artisan développeur	| FR 					| Author: Benoit Gantaume Sujet Passionné d' Agilité explaining concept and react to them, may includes interviews
+| echo podcast tech/dev	| FR 					| Various conversations/interviews regarding tech |
+| if this then dev ( ITTD )	| FR 				| Digital organization talking / exchanging about tech with professional in activity |
+| syntax.fm		| EN 				| WIP |
 
 
 
@@ -33,7 +39,7 @@ WIP
 - [ PAID / FREE ] paid dominant courses / path with paid course/path access
 
 |Names 					| Languages 			| Descriptions 				| Topics 				|
-|:---------------------:|:---------------------:|:-------------------------|:-------------------------:|
+|:---------------------|:---------------------:|:-------------------------|:-------------------------:|
 | freecodecamp.com			| FR / EN / ...			| [ FREE ] Self space learning and practice platform providing completion certificate | Front-End, Back-End related |
 | w3schools.com			| FR / EN / ...			| [ FREE ] Self space learning and practice platform | Front-End, Back-End |
 | theodinproject.com				|  EN 			| [ FREE ] Self space learning and practice by doing projects | Front-End, Back-End |
@@ -47,41 +53,43 @@ WIP
 | grafikart.com | EN | [ FREE / PAID SUB ] Learning by doing projects | Front-End, Back-End, others |
 
 
-##  Learning with documentations / Tuto - rare integrated practice panel
-|Names 					| Languages 			| Descriptions 				|
-|:---------------------:|:---------------------:|:-------------------------|
-|javascript.info|EN| [ FREE ] Learn about JavaScript|
+##  Reading based - one specific topic
+|Names 					| Languages 			| Links         | Descriptions 				|
+|:--------------|:---------------:|:--------------|:--------------------|
+| javascript.info | EN | https://javascript.info  |[ FREE ] Learn about JavaScript|
+| nodejs.dev      | EN | https://nodejs.dev       |[ FREE ] Learn about NodeJS |
 
 
 
 ## Documented oriented learning platforms, sites, blogs, articles
 
 |Names 					| Languages 			| Descriptions 				| Topics 				|
-|:---------------------:|:---------------------:|:-------------------------:|:---------------------|
+|:---------------------|:---------------------:|:-------------------------:|:---------------------|
 | medium.com| EN, FR, others | [ PAID SUB / FREE 3 per months] WebSite where people are sharing articles / tutos about various topics including IT | Front-End, Back-end, others |
 | Dev.to | EN, FR, others | [ FREE ] WebSite where people are sharing articles / tutos about various IT topics | Front-End, Back-end, others |
 
 ## Code / Challenge practice:
 |Names 					| Languages 			| 
-|:---------------------:|:---------------------|
+|:---------------------|:---------------------|
 |codewars.com|EN, (...?)|
 |codinggames.com|EN, (...?)|
 
 
 ## Youtube channel
-|Names 					| Link 					| Languages 		|
-|:---------------------:|:---------------------:|:---------------------|
-|DotConferences|youtube.com/c/dotconferences | FR |
-|DevTheory|youtube.com/c/DevTheory | FR |
-|Grafikart|youtube.com/c/grafikart | FR |
-|FireShip|youtube.com/c/FireShip | EN |
-|Techsith|youtube.com/c/Techsithtube | EN |
-|Ihatetomatoes|youtube.com/c/Ihatetomatoes | EN |
+|Names 					| Links 					| Languages 		|
+|:---------------------|:---------------------:|:---------------------|
+|DotConferences|https://youtube.com/c/dotconferences | FR |
+|DevTheory|https://youtube.com/c/DevTheory | FR |
+|Grafikart|https://youtube.com/c/grafikart | FR |
+|FreeCodeCamp|https://youtube.com/c/freecodecamp | EN |
+|FireShip|https://youtube.com/c/FireShip | EN |
+|Techsith|https://youtube.com/c/Techsithtube | EN |
+|Ihatetomatoes|https://youtube.com/c/Ihatetomatoes | EN |
 
 
 ## Online Code IDEs and Terminals:
 |Names 					| Can connect with Repo | Code env. side
-|:---------------------:|:---------------------:|:---------------------|
+|:---------------------|:---------------------:|:---------------------|
 |codesandbox.io| :white_check_mark: | Front-end |
 |stackblitz.com| :white_check_mark: | Back-end, Front-end |
 |jsfiddl.net | :white_large_square: | JavaScript |
@@ -91,16 +99,16 @@ WIP
 
 ## Useful resources:
 |Names 					| Specificity			|  Link(s)				|
-|:---------------------:|:---------------------:|:---------------------|
+|:---------------------|:---------------------:|:---------------------|
 |Markup |markup cheatSheet|	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet|
 |Markup |icons cheatSheet | https://gist.github.com/rxaviers/7360908 |
-|RegExp| hintsightfull / online practice | regexr.com |
-|RegExp| hintsightfull / online practice | regex101.com |
-|CSS/Styles| Tuto and articles | css-tricks.com |
+|RegExp| hintsightfull / online practice | https://regexr.com |
+|RegExp| hintsightfull / online practice | https://regex101.com |
+|CSS/Styles| Tuto and articles | https://css-tricks.com |
 
 ## Full/Entire dedicated topic courses/bootcamps/workshop ( fully paid ) :
 |Names 					|  Link(s)				|
-|:---------------------:|:---------------------|
+|:---------------------|:---------------------|
 |ZeroToMastery |https://zeroToMastery.io |
 |Kent C. Dodds |https://kentcdodds.com/courses |
 |ZeroToMastery |https://zeroToMastery.io |
