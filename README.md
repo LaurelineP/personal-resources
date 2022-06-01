@@ -97,6 +97,7 @@ WIP
 |stackblitz.com| :white_check_mark: | Back-end, Front-end |
 |jsfiddl.net | :white_large_square: | JavaScript |
 |codepen.io | :white_large_square: | Front-end |
+|db-fiddle.com | :white_large_square: | Back-end (DB SQL related) |
 
 
 
