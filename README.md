@@ -2,6 +2,13 @@
 # Personal resources
 Storing Page listing personal resources regarding development.
 
+# Roadmaps 
+
+|Names 					|  Descriptions 				|
+|:---------------------|:---------------------:|:-------------------------|
+| [roadmap.sh](https://roadmap.sh/}	| Carreer path roadmap & concepts to know with links resources
+
+
 # Personal quick access formations
 - Reading based: 
   - Medium: https://medium.com/ (SB)
@@ -16,10 +23,12 @@ Storing Page listing personal resources regarding development.
   - SkillShare: https://skillshare.com (SB)
   - LogicRoom - Ultra fast testing TDD   
   for javasscript engineer: https://www.logicroom.co/library (OT)
-  - Awwwards - 
+  - Awwwards -
+  - NetworkChuck - https://learn.networkchuck.com/
 - Both reading and video based:
   - FreeCodeCamp: https://freecodecamp.com
     / https://youtube.com/c/freecodecamp (✨FREE)
+    
 
 # Personal books
 WIP
@@ -88,6 +97,7 @@ WIP
 |FireShip|https://youtube.com/c/FireShip | EN |
 |Techsith|https://youtube.com/c/Techsithtube | EN |
 |Ihatetomatoes|https://youtube.com/c/Ihatetomatoes | EN |
+|Network Chuck|https://www.youtube.com/@NetworkChuck | EN |
 
 
 ## Online Code IDEs and Terminals:
@@ -101,7 +111,7 @@ WIP
 
 
 
-## Useful resources:
+## Useful miscelleaneour resources:
 |Names 					| Specificity			|  Link(s)				|
 |:---------------------|:---------------------:|:---------------------|
 |Markup |markup cheatSheet|	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet|
@@ -115,5 +125,10 @@ WIP
 |:---------------------|:---------------------|
 |ZeroToMastery |https://zeroToMastery.io |
 |Kent C. Dodds |https://kentcdodds.com/courses |
-|ZeroToMastery |https://zeroToMastery.io |
 |ReactBootcamp |https://reactbootcamp.com |
+
+
+## Computer Science related:
+|Names 					|  Descriptions				|
+|:---------------------|:---------------------|
+|[CPU Land](https://cpu.land/) |https://zeroToMastery.io |
