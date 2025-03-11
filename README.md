@@ -5,8 +5,8 @@ Storing Page listing personal resources regarding development.
 # Roadmaps 
 
 |Names 					|  Descriptions 				|
-|:---------------------|:---------------------:|:-------------------------|
-| [roadmap.sh](https://roadmap.sh/}	| Carreer path roadmap & concepts to know with links resources
+|:---------------------|:---------------------:|
+| [roadmap.sh](https://roadmap.sh/)	| Carreer path roadmap & concepts to know with links resources |
 
 
 # Personal quick access formations
@@ -52,10 +52,10 @@ WIP
 
 |Names 					| Languages 			| Descriptions 				| Topics 				|
 |:---------------------|:---------------------:|:-------------------------|:-------------------------:|
-| freecodecamp.com			| FR / EN / ...			| [ FREE ] Self space learning and practice platform providing completion certificate | Front-End, Back-End related |
-| w3schools.com			| FR / EN / ...			| [ FREE ] Self space learning and practice platform | Front-End, Back-End |
-| theodinproject.com				|  EN 			| [ FREE ] Self space learning and practice by doing projects | Front-End, Back-End |
-| udemy.com|dom. EN, and few in other languages|[ PAID/FREE : accessible prices when sale period for huge contents ( ~ 10 - 15 euros )] ( per course / subscription ( new )) self-space; providing completion certificate ]| Front-End, Back-end, other than IT topics )|
+| [freecodecamp.com](www.freecodecamp.org)			| FR / EN / ...			| [ FREE ] Self space learning and practice platform providing completion certificate | Front-End, Back-End related |
+| [w3schools.com](www.w3schools.com)			| FR / EN / ...			| [ FREE ] Self space learning and practice platform | Front-End, Back-End |
+| [theodinproject.com](www.theodinproject.com	)				|  EN 			| [ FREE ] Self space learning and practice by doing projects | Front-End, Back-End |
+| [udemy.com](www.udemy.com)|dom. EN, and few in other languages|[ PAID/FREE : accessible prices when sale period for huge contents ( ~ 10 - 15 euros )] ( per course / subscription ( new )) self-space; providing completion certificate ]| Front-End, Back-end, other than IT topics )|
 | eggHead.io			| dom EN 		| [ PAID SUB / few FREE ] Self space learning courses / path with professionals / advanced-dev targeted - no certificates| Front-End, Back-End |
 | aligator.io			| EN			| [ PAID SUB / FREE ] | Platform proposing path and courses about any kind of tech - no certificates | Front-End, Back-End |
 | PluralSight.com			| EN			| [ PAID SUB ] | Platform proposing path and courses about any kind of tech | Front-End, Back-End |
