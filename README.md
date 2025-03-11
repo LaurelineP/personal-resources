@@ -17,6 +17,7 @@ Storing Page listing personal resources regarding development.
   - ZeroToMastery: https://zerotomastery.io (OT)
   - EggHead: https://eggHead.io (SB)
   - PluralSight: https://pluralsight.com (SB)
+  - Cantrill: https://learn.cantrill.io/
   - ReactBootcamp: https://reactbootcamp.com (OT)
   - Kent C. Dodd - EpicReactApp: https://epicreact.dev (OT)
   - Kent C. Dodd - Testing: https://testingjavascript.com (OT)
@@ -63,6 +64,7 @@ WIP
 | frontmasters.com			| EN			| [ PAID SUB ] | Platform proposing path and courses relative to | Front-End |
 | coursera.com | EN | [ PAID ] Learning platform providing various topic courses + online degree | Front-End, Back-End, others |
 | grafikart.com | EN | [ FREE / PAID SUB ] Learning by doing projects | Front-End, Back-End, others |
+| cantrill      | EN | [ FREE / DOM PAID SUB ] | Learning about cloud | Cloud |
 
 
 ##  Reading based - one specific topic
@@ -70,6 +72,8 @@ WIP
 |:--------------|:---------------:|:--------------|:--------------------|
 | javascript.info | EN | https://javascript.info  |[ FREE ] Learn about JavaScript|
 | nodejs.dev      | EN | https://nodejs.dev       |[ FREE ] Learn about NodeJS |
+| MDN      | MULTI | https://developer.mozilla.org |       |[ FREE ] Learn about NodeJS |
+
 
 
 
