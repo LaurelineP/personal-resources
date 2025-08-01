@@ -11,20 +11,21 @@ Storing Page listing personal resources regarding development.
 
 # Personal quick access formations
 - Reading based: 
-  - Medium: https://medium.com/ (SB)
-  - Sitepoint: https://sitepoint.com (SB)
+  - Medium: https://medium.com/
+  - Sitepoint: https://sitepoint.com
 - Video based:
-  - ZeroToMastery: https://zerotomastery.io (OT)
-  - EggHead: https://eggHead.io (SB)
-  - PluralSight: https://pluralsight.com (SB)
+  - FrontendMaster: https://frontendmasters.com
+  - ZeroToMastery: https://zerotomastery.io
+  - EggHead: https://eggHead.io
+  - PluralSight: https://pluralsight.com
   - Cantrill: https://learn.cantrill.io/
-  - ReactBootcamp: https://reactbootcamp.com (OT)
-  - Kent C. Dodd - EpicReactApp: https://epicreact.dev (OT)
-  - Kent C. Dodd - Testing: https://testingjavascript.com (OT)
-  - SkillShare: https://skillshare.com (SB)
+  - ReactBootcamp: https://reactbootcamp.com
+  - Kent C. Dodd - EpicReactApp: https://epicreact.dev
+  - Kent C. Dodd - Testing: https://testingjavascript.com
+  - SkillShare: https://skillshare.com
   - LogicRoom - Ultra fast testing TDD   
-  for javasscript engineer: https://www.logicroom.co/library (OT)
-  - Codedamnn - https://codedamn.com/ (subscription)
+  for javasscript engineer: https://www.logicroom.co/library
+  - Codedamnn - https://codedamn.com
 - Both reading and video based:
   - FreeCodeCamp: https://freecodecamp.com
     / https://youtube.com/c/freecodecamp (✨FREE)
