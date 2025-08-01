@@ -24,8 +24,7 @@ Storing Page listing personal resources regarding development.
   - SkillShare: https://skillshare.com (SB)
   - LogicRoom - Ultra fast testing TDD   
   for javasscript engineer: https://www.logicroom.co/library (OT)
-  - Awwwards -
-  - NetworkChuck - https://learn.networkchuck.com/
+  - Codedamnn - https://codedamn.com/ (subscription)
 - Both reading and video based:
   - FreeCodeCamp: https://freecodecamp.com
     / https://youtube.com/c/freecodecamp (✨FREE)
@@ -36,12 +35,15 @@ WIP
 
 
 ## Podcasts:
-|Names 					| Languages 			| Descriptions 				|
+|Names 					| Languages 			| Descriptions 				| Link |
 |:---------------------|:---------------------:|:-------------------------|
-| artisan développeur	| FR 					| Author: Benoit Gantaume Sujet Passionné d' Agilité explaining concept and react to them, may includes interviews
-| echo podcast tech/dev	| FR 					| Various conversations/interviews regarding tech |
-| if this then dev ( ITTD )	| FR 				| Digital organization talking / exchanging about tech with professional in activity |
-| syntax.fm		| EN 				| WIP |
+| artisan développeur	| FR 					| Author: Benoit Gantaume Sujet Passionné d' Agilité explaining concept and react to them, may includes interviews | https://artisandeveloppeur.fr |
+| echo podcast tech/dev	| FR 					| Various conversations/interviews regarding tech | https://podcastecho.github.io |
+| if this then dev ( ITTD )	| FR 				| Digital organization talking / exchanging about tech with professional in activity | https://www.ifttd.io | 
+| syntax.fm		| EN 				| Web development content  | https://syntax.fm |
+| backendbanter		| EN 				| Backend podcasts | https://www.backendbanter.fm |
+| backend engineering with Hussein Nasser		| EN 				| Backend podcasts | https://www.husseinnasser.com/p/podcast.html |
+
 
 
 
@@ -65,7 +67,8 @@ WIP
 | coursera.com | EN | [ PAID ] Learning platform providing various topic courses + online degree | Front-End, Back-End, others |
 | grafikart.com | EN | [ FREE / PAID SUB ] Learning by doing projects | Front-End, Back-End, others |
 | cantrill      | EN | [ FREE / DOM PAID SUB ] | Learning about cloud | Cloud |
-
+| Awwwards | EN | WIP | https://www.awwwards.com |
+| NetworkChuck | EN | WIP | https://learn.networkchuck.com/ |
 
 ##  Reading based - one specific topic
 |Names 					| Languages 			| Links         | Descriptions 				|
@@ -102,6 +105,7 @@ WIP
 |Techsith|https://youtube.com/c/Techsithtube | EN |
 |Ihatetomatoes|https://youtube.com/c/Ihatetomatoes | EN |
 |Network Chuck|https://www.youtube.com/@NetworkChuck | EN |
+|Underscore_|https://www.youtube.com/@Underscore| FR |
 
 
 ## Online Code IDEs and Terminals:
@@ -115,7 +119,7 @@ WIP
 
 
 
-## Useful miscelleaneour resources:
+## Useful miscelleaneous resources:
 |Names 					| Specificity			|  Link(s)				|
 |:---------------------|:---------------------:|:---------------------|
 |Markup |markup cheatSheet|	https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet|
@@ -123,6 +127,7 @@ WIP
 |RegExp| hintsightfull / online practice | https://regexr.com |
 |RegExp| hintsightfull / online practice | https://regex101.com |
 |CSS/Styles| Tuto and articles | https://css-tricks.com |
+|SQL| Entire SQL Guide Collection | https://database.guide |
 
 ## Full/Entire dedicated topic courses/bootcamps/workshop ( fully paid ) :
 |Names 					|  Link(s)				|
